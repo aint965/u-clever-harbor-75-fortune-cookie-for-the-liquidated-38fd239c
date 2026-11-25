@@ -8,9 +8,9 @@ Entry for the [Fortune Cookie for the Liquidated Trader](https://make.fun/bounty
 
 ## The fortune
 
-> A great fortune awaits you, trader — only smaller now, and small enough to fit inside this cookie.
+> A great fortune awaits you, trader — it just fits in this cookie now, like your balance.
 
-18 words, 98 characters, one line, plain text.
+16 words, 88 characters, one line, plain text.
 
 ## How it works
 
@@ -32,13 +32,27 @@ deleted.
 5. "Your lucky numbers are the ones you should never have leveraged." — sharp, but it teases the trader rather than laughing with him.
 6. "A great fortune awaits you — it is just smaller now, and fits inside a cookie." — **winner**: the double meaning of "fortune" (wealth vs. the slip of paper) is the fresh turn, the voice is oracular, and the punchline lands on the loss without cruelty.
 
-**Round 2 — revise the winner.** Defect fixed: criterion 1 was the winner's
-weakest — no trader is named and the loss is only implied by "smaller now".
-The revision names the trader and makes the cookie the one in his hand:
-"A great fortune awaits you, **trader** — only smaller now, and small enough
-to fit inside **this** cookie." The oracular opening, the double meaning of
-"fortune", and the shrinking-punchline all survive; the loss and the trader are
-now explicit.
+**Round 3 — revise the winner again.** Defect fixed: criterion 1 was still
+the winner's weakest — "only smaller now" understates the loss, so the line
+could scan as merely cute rather than funny; the punchline landed on the
+cookie, not on the trader's loss. Head-to-head of three finalists against
+the judge's five criteria:
+
+- (A) the round-2 line: "A great fortune awaits you, trader — only smaller
+  now, and small enough to fit inside this cookie." (17 words, 98 chars)
+- (B) "A great fortune awaits you, trader — it just fits in this cookie
+  now, like your balance." (16 words, 88 chars)
+- (C) "A great fortune awaits you, trader — it fits in this cookie now,
+  and so does your net worth." (18 words, 92 chars)
+
+(B) **wins**. Criterion 1 decides it: in (B) the loss is unmistakable — the
+fortune fits in the cookie "like your balance", i.e. the balance is
+cookie-sized — where (A) only implies a smaller fortune. (C) is equally
+explicit on the loss, but its flat equation ("and so does your net worth")
+states total ruin a shade closer to bleak than (B)'s gentler, warmer simile,
+and "balance" is the trader's own word. (B) is also the tightest single
+breath, keeps the "fortune" double meaning from round 1, and adds a second
+turn — the surprising last word "balance" — that (A) lacks.
 
 ## License
 
